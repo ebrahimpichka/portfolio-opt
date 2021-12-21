@@ -11,11 +11,11 @@ It was introduced in a 1952 doctoral thesis by Harry Markowitz. It assumes that 
 In portfolio theory, the riskiness of an asset is often measured by the ***variance*** (or standard deviation) of its returns. Variance is an important indicator of how volatile this investment will be (how returns can fluctuate). Risk-averse investors do not want their wealth to fluctuate wildly.
 
 ## Calculations
-**porfolio return:**
+**portfolio return:**
 
 ![plot](https://github.com/ebrahimpichka/portfolio-opt/blob/main//img1-ret.png)
 
-**porfolio variance:**
+**portfolio variance:**
 
 ![plot](https://github.com/ebrahimpichka/portfolio-opt/blob/main//img2-var.png)
 
@@ -25,6 +25,6 @@ matrix form:
 
 ![plot](https://github.com/ebrahimpichka/portfolio-opt/blob/main//img4-mat.png)
 
-**efficient porfolio portfolio for any particular return level optmization problem:**
+**efficient portfolio for any particular level of return optmization problem:**
 
 ![plot](https://github.com/ebrahimpichka/portfolio-opt/blob/main//img4-mat.png)
